@@ -26,6 +26,12 @@ namespace Week02
             }
             myInt = myInt ==1 ? 1 : 0;
             Console.WriteLine(myInt);
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            case
 
         }        
 
