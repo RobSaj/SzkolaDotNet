@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\bin\Debug\net6.0\8.2Petle.exe
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\bin\Debug\net6.0\8.2Petle.deps.json
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\bin\Debug\net6.0\8.2Petle.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\bin\Debug\net6.0\8.2Petle.dll
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\bin\Debug\net6.0\ref\8.2Petle.dll
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\bin\Debug\net6.0\8.2Petle.pdb
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.dll
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\ref\8.2Petle.dll
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.pdb
+C:\Users\Admin\Documents\GitHub\SzkolaDotNet\HomeWork\Week02\8.2Petle\8.2Petle\obj\Debug\net6.0\8.2Petle.genruntimeconfig.cache
