@@ -8,16 +8,15 @@ namespace Petle
         {
             static bool czyPierwsza(int a)
             {
-                if (a % 2 == 0)
-                    return (a == 2);
-                for (int i = 3; i <= Math.Sqrt(a); i++)
+                
+                for (int i = 2; i <= Math.Sqrt(a); i++)
                 {
                     if (a % i == 0)
                     {
                         return false;
                     }
                 }
-                return true;
+               return true;
             }
 
             int n = 100;

@@ -6,19 +6,18 @@ namespace Petle
     {
         public static void Main(string[] args)
         {
-            int count = 0;
-            int i = 0;
-
+            int count = 1;
+            
             do
             {
                 if (count % 2 == 0)
                 {
-                    i++;
+                    Console.WriteLine(count);
                 }
-                count++;
+               count++;
 
-            } while (count<=10);
-            Console.WriteLine(i);
+            } while (count<=100);
+           
         }
 
     }
